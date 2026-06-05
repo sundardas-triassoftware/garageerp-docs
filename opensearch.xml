@@ -4,8 +4,8 @@
   <ShortName>GarageERP Documentation</ShortName>
   <Description>Search GarageERP Documentation</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://docs.triasoft.in/img/logo-placeholder.svg</Image>
-  <Url type="text/html" method="get" template="https://docs.triasoft.in/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.triasoft.in/opensearch.xml" />
-  <moz:SearchForm>https://docs.triasoft.in/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://sundardas-triassoftware.github.io/garageerp-docs/img/logo-placeholder.svg</Image>
+  <Url type="text/html" method="get" template="https://sundardas-triassoftware.github.io/garageerp-docs/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://sundardas-triassoftware.github.io/garageerp-docs/opensearch.xml" />
+  <moz:SearchForm>https://sundardas-triassoftware.github.io/garageerp-docs/</moz:SearchForm>
 </OpenSearchDescription>
