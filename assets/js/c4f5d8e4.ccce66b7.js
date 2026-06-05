@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgarageerp_docs=self.webpackChunkgarageerp_docs||[]).push([["4823"],{7176(e,r,a){a.r(r),a.d(r,{default:()=>n});var c=a(6540);function n(){return(0,c.useEffect)(()=>{window.location.replace("/introduction/overview")},[]),null}}}]);
